@@ -82,10 +82,6 @@ Student-Management/
 - **Role-Based Access**: Add authentication for different user roles (e.g., admin, teacher).
 - **Reporting**: Generate detailed reports of student progress and course completion.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Java documentation
